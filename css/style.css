@@ -1,0 +1,136 @@
+/*
+.bg-aa{
+    background: linear-gradient(55deg, purple, orange);
+}
+*/
+
+.semc{
+    text-decoration: none;
+}
+.roxoclr{
+    background-color: #8312ce;
+}
+.bg-bb{
+    background-color: #432C7A;
+}
+.bg-drk{
+    background-color: #331d68;
+}
+.jotar{
+    background-color: #2f1b5e;
+}
+.dioF{
+    color: #281456;
+}
+.dio{
+    background-color: #281456;
+}
+.road{
+    background-color: #d8880f;
+}
+
+.destaque-txt{
+    color: #fe9800;
+}
+.destaque-bg{
+    background-color: #fe9800;
+}
+
+.txt-clr{
+    color: #846eb7;
+}
+
+.txt-clr:hover{
+    color: #cbb5ff;
+}
+
+
+
+.direction{
+    text-align: center;
+}
+.direction button{
+    font-family: cursive;
+    font-weight: bold;
+    background-color: #432C7A;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.direction button:hover{
+    background-color: #846eb7;
+}
+.ite{
+    border-radius: 15px;
+    width: 300px;
+    height: 500px;
+    background-image: linear-gradient(to top, #331d68, #8312ce);
+    overflow: hidden;
+    transition: 0.5s;
+    margin: 10px;
+}
+.ite .avatar{
+    display: block;
+    margin: 50px auto 10px;
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 10px 15px #d8880f;
+}
+.ite .conteudo{
+    padding: 30px;
+    font-family: monospace;
+}
+.ite .conteudo table td{
+    padding: 10px 0;
+    border-bottom: 1px solid #d8880f;
+}
+.ite .conteudo table td:nth-child(2){
+    text-align: right;
+}
+.ite .nomeGrupo{
+    text-align: center;
+    border-bottom: none!important;
+}
+#lista{
+    display: flex;
+    width: max-content;
+}
+#formList{
+    width: 1200px;
+    max-width: 100%;
+    overflow: auto;
+    margin:100px auto;
+    scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 1024px){
+    .ite{
+        width: calc(33.3vw - 20px);
+    }
+}
+@media screen and (max-width: 768px){
+    .ite{
+        width: calc(50vw - 20px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
