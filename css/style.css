@@ -39,7 +39,9 @@
 .txt-clr{
     color: #846eb7;
 }
-
+.txt-clr2{
+    color: #846eb7;
+}
 .txt-clr:hover{
     color: #cbb5ff;
 }
