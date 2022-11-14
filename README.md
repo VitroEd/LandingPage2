@@ -1,2 +1,2 @@
 # LandingPage2
-Trabalho finalizado sobre Landing Page para feira de profissoes, com o tema de Design Digital
+Trabalho finalizado de LandingPage para a feira de profissões. Com o tema de Design Digital.
